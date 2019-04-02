@@ -4,7 +4,7 @@
 /** Ionic CSS Variables **/
 :root {
   /** primary **/
-  --ion-color-primary: #3880ff;
+  --ion-color-primary: #e9801e;
   --ion-color-primary-rgb: 56, 128, 255;
   --ion-color-primary-contrast: #ffffff;
   --ion-color-primary-contrast-rgb: 255, 255, 255;
@@ -72,6 +72,23 @@
   --ion-color-light-rgb: 244, 244, 244;
   --ion-color-light-contrast: #000000;
   --ion-color-light-contrast-rgb: 0, 0, 0;
-  --ion-color-light-shade: #d7d8da;
+  --ion-color-light-shade: #d7d8das;
   --ion-color-light-tint: #f5f6f9;
+  
+  /** Custom Styling Default **/
+    --ion-background-color: #fffeb1;
+    --ion-toolbar-background: #ffffff;
+
+  /** Custom Styling ios **/
+  .ios {
+    --ion-background-ios-color: #fffeb1;
+  }  
+
+  /** Custom Styling Android**/
+  .md {
+    --ion-background-md-color: #fffeb1;
+  }
+
+  
+
 }
