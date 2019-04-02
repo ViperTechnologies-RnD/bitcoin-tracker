@@ -1,4 +1,4 @@
-## Ionic 4 BMI Calculator App
+## Ionic 4 Bitcoin Price Tracker App
 
 ### About this repo
 This repo is the project code of an Ionic 4 app that retrieves and shows the up-to-date price rate of Bitcoin to USD, AUD, GBP, EUR, and TRY.
